@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vsoisebt",
+    "password": "b3ly5kB3dcmTwEy1zlkLkaX4pru07ANO",
+    "database": "vsoisebt",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
